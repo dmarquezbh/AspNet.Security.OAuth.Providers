@@ -1,25 +1,25 @@
-{
+﻿{
   "version": "1.0.0-beta1-*",
 
-  "description": "ASP.NET Core security middleware enabling Instagram authentication.",
-  "authors": [ "Yannic Smeets" ],
+  "description": "ASP.NET Core security middleware enabling Hospitale authentication.",
+  "authors": [ "Daniel Marques" ],
 
   "packOptions": {
-    "owners": [ "Kévin Chalet", "Jerrie Pelser" ],
+    "owners": [ "Daniel Marques", "Bernardo Gomes" ],
 
-    "projectUrl": "https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers",
+    "projectUrl": "https://github.com/dmarquezbh/AspNet.Security.OAuth.Providers",
     "iconUrl": "https://avatars3.githubusercontent.com/u/7998081?s=64",
     "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.html",
 
     "repository": {
       "type": "git",
-      "url": "git://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers"
+      "url": "git://github.com/dmarquezbh/AspNet.Security.OAuth.Providers"
     },
 
     "tags": [
       "aspnetcore",
       "authentication",
-      "instagram",
+      "hospitale",
       "oauth",
       "security"
     ]
